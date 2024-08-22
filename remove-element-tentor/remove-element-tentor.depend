@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1721981158 source:d:\telkom university\beome tentor\remove-element-tentor\list.cpp
+	"list.h"
+
+1721896741 d:\telkom university\beome tentor\remove-element-tentor\list.h
+	<iostream>
+
+1721897596 source:d:\telkom university\beome tentor\remove-element-tentor\main.cpp
+	"list.h"
+
